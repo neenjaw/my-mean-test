@@ -1,0 +1,25 @@
+{
+  "name": "my-mean-test",
+  "version": "1.0.0",
+  "description": "a MEAN stack test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neenjaw/my-mean-test.git"
+  },
+  "keywords": [
+    "mean",
+    "mongo",
+    "express",
+    "node"
+  ],
+  "author": "Tim Austin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "gulp": "latest"
+  }
+}
